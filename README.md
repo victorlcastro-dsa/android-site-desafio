@@ -22,7 +22,7 @@ Siga os passos abaixo para executar o projeto localmente:
    ```
 
 2. Abra o arquivo `index.html` em seu navegador de preferência ou acesse o link abaixo:
-- <a href="https://victorlcastro-dsa.github.io/android-site-desafio/android.html">https://victorlcastro-dsa.github.io/android-site-desafio/</a>
+- <a href="https://victorlcastro-dsa.github.io/android-site-desafio/android.html">https://victorlcastro-dsa.github.io/android-site-desafio/android.html</a>
 
 ## Experiência do Usuário
 
